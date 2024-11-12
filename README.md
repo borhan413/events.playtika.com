@@ -1,0 +1,2 @@
+# events.playtika.com
+takover
